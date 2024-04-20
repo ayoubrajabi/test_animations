@@ -1,16 +1,13 @@
-# test_animations
+# Flutter Animations Package
 
-A new Flutter project.
+This package provides a collection of animations widgets and utilities to help you create beautiful and engaging UI animations in your Flutter apps.
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
+To use this package, add `animations` as a dependency in your `pubspec.yaml` file:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```yaml
+dependencies:
+  flutter:
+    sdk: flutter
+  animations: ^1.0.0
